@@ -1,11 +1,13 @@
 @media (max-width: 375px) {
 .image{
-  flex-dirction:column;}
+  flex-dirction:column;
+  }
   .product{clear:left;}
+  
 }
 @media (max-width: 1440px) {
 .image{display:flex;
   ]
-  .product{clear:left;}
+  .product{width:50%}
 
 }
