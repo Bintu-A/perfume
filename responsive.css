@@ -8,8 +8,9 @@
 @media (max-width: 1440px) {
 .image{display:flex;
   background-image:cover;
+  width:50%;
+  height:50%
   ]
-  .product{width:50%;
-  height:50%;}
+  .product}
 
 }
