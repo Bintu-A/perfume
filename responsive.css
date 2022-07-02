@@ -1,0 +1,8 @@
+@media (max-width: 375px) {
+.image{
+flex-dirction:column;}
+}
+@media (max-width: 1440px) {
+.image{display:flex;
+}
+}
