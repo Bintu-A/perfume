@@ -14,7 +14,8 @@ padding:12px 24px;
 display:inline-block;
 opacity:0.8;
 font-weight: bold;
-text-align: center;}
+text-align: center;
+cursor:pointer;}
 
 .cart:hover{
     opacity: 1;
@@ -58,7 +59,8 @@ h1,h2{
     h2{
         color: hsl(158, 36%, 37%);
     }
-.image{object-fit: cover;
+.image{object-fit: contain;
+  
 }
 .169{
 text-decoration: line-through ;}
