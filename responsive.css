@@ -1,15 +1,10 @@
 @media (max-width: 375px) {
-.image{
-  flex-dirction:column;
-  }
-  .product{clear:left;}
+  .product{flex-direction:column;}
   
 }
 @media (max-width: 1440px) {
-.image{display:flex;
-  background-image:cover;
-  width:100%;
-  ]
-  .product}
+ 
+  
+  .product{display:flex;}
 
 }
