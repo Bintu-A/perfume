@@ -1,6 +1,9 @@
-body{background-color: hsl(30, 38%, 92%);}
+body{
+  background-color: hsl(30, 38%, 92%);
+}
+
   .cart{
-    border-radius: 10px;
+ border-radius: 10px;
 transition: all 1S;  
 background-color: hsl(158, 36%, 37%);
 margin:  auto;
@@ -16,12 +19,14 @@ text-align: center;}
 .cart:hover{
     opacity: 1;
 }
+
 p{
     font-size: 14px;
     font-family: "Montserrat", sans-serif;
 line-height: 30px;
 font-weight: 50;
 }
+
 h1,h2{
     font-size:42px;
     color: black;
