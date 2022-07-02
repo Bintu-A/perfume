@@ -43,7 +43,7 @@ h1,h2{
     letter-spacing: 4px;
 
 }
-.product{
+.container{
     text-align: center;
     border-radius: 10px;
     border: 1px solid hsl(0, 0%, 100%);
@@ -62,5 +62,5 @@ h1,h2{
 .image{object-fit: contain;
   
 }
-.169{
+.h2 169{
 text-decoration: line-through ;}
