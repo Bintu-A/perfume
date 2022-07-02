@@ -5,6 +5,16 @@
 @media (max-width: 1440px) {
  
   
-  .product{display:flex;}
+  .container{
+    display:flex;
+  align-items:center;
+  justify-content:center
+  }
+  img{
+    max-width:100%;}
+  .image{
+  flex-basis:40%;}
+  
+  .text{padding-left:20px;}
 
 }
