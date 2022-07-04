@@ -2,7 +2,7 @@ body{
   background-color: hsl(30, 38%, 92%);
 }
 
-  .cart{
+  h4{
  border-radius: 10px;
 transition: all 1S;  
 background-color: hsl(158, 36%, 37%);
@@ -60,5 +60,7 @@ h1,h2{
 
   
 }
-.169{
-text-decoration: line-through;}
+h3{
+text-decoration:line-through;
+font-size:14px;
+font-weight:normal;}
