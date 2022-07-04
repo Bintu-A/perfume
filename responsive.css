@@ -9,7 +9,7 @@
   
   .container{
     display:flex;
-    justify items:left;
+    justify-items:left;
     align-items:center;
   
   }
